@@ -1,0 +1,1 @@
+add printable breadbook, reformat sharing resources for print/web.  Move file for aielf first drop.
